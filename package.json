@@ -1,7 +1,7 @@
 {
-  "name": "chat-website",
+  "name": "chatify",
   "version": "1.0.0",
-  "description": "This is a real-time chat website that allows users to connect with each other and chat in real-time. It was built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), Socket.io, Redux Toolkit, and Tailwind CSS.",
+  "description": "A real time chat app developed with the help of youtube, W3schools,chatGPT",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShakirFarhan/Realtime-Chat.git"
+    "url": "https://github.com/wolAnsh/Chatify.git"
   },
-  "author": "Shakir Farhan",
+  "author": "Anshu kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShakirFarhan/Realtime-Chat/issues"
+    "url": "https://github.com/wolAnsh/Chatify/blob/main/README.md"
   },
-  "homepage": "https://github.com/ShakirFarhan/Realtime-Chat#readme"
+  "homepage": "https://github.com/wolAnsh/Chatify/blob/main/README.md"
 }
